@@ -2,6 +2,7 @@
 Este es un repositorio creado para ilustrar el funcionamiento y gestión de repositorios en GitHub
 
 Modificación de la rama José
+Este es un cambio de la rama main
 
                 _ ___                /^^\ /^\  /^^\_
     _          _@)@) \            ,,/ '` ~ `'~~ ', `\.
@@ -13,3 +14,4 @@ Modificación de la rama José
  < ~ ~ '~`'~'`, .,  .   `_: ::: \_ '      `_/ ::: \_ `.,' . ',  \_
   \ ' `_  '`_    _    ',/ _::_::_ \ _    _/ _::_::_ \   `.,'.,`., \-,-,-,_,_,
    `'~~ `'~~ `'~~ `'~~  \(_)(_)(_)/  `~~' \(_)(_)(_)/ ~'`\_.._,._,'_;_;_;_;_;
+
