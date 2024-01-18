@@ -25,4 +25,4 @@ Este es un cambio de la rama main
 ||;;;;;;;;;;;;;;;;;;;;;;||
 ||jgs;;;;;;;;;;;;;;;;;;;||
 '------------------------'
-
+Cambio desde gitkraken
