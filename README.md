@@ -3,7 +3,6 @@ Este es un repositorio creado para ilustrar el funcionamiento y gestión de repo
 
 Modificación de la rama José
 
- Phoenix
                 _ ___                /^^\ /^\  /^^\_
     _          _@)@) \            ,,/ '` ~ `'~~ ', `\.
   _/o\_ _ _ _/~`.`...'~\        ./~~..,'`','',.,' '  ~:
